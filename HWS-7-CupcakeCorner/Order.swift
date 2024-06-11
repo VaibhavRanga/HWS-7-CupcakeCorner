@@ -23,7 +23,6 @@ class Order: Codable {
         case _specialRequestsEnabled = "specialRequestsEnabled"
         case _extraFrosting = "extraFrosting"
         case _addSprinkles = "addSprinkles"
-        case _address = "address"
         case _name = "name"
         case _street = "street"
         case _city = "city"
